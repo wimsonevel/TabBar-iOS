@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  TabBar-iOS
 //
-//  Created by Docotel on 7/27/16.
+//  Created by Wim on 7/27/16.
 //  Copyright © 2016 Kwikku. All rights reserved.
 //
 
